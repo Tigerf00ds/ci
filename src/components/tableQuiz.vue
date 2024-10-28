@@ -27,7 +27,7 @@ const props = defineProps({
     key: Number,
     id: Number
 })
-
+//Coucou
 
 const emit = defineEmits([
     'delete'
